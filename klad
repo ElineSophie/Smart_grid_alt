@@ -1,0 +1,10 @@
+# keys = []
+# for key in grid_house:
+#     keys.append(key)
+#
+# print(keys)
+
+#
+# for key in data.houses:
+#     x_coord = data.houses[key].get_x()
+#     y_coord = data.houses[key].get_y()
